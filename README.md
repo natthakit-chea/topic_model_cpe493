@@ -1,6 +1,2 @@
-# topic_model_cpe493
-## การวิเคราะห์เนื้อหาเพลงด้วย Topic Modeling โดย `Berttopic`
-1. วิเคราะห์เนื้อหาของเพลงที่มีความนิยมในปัจจุบันโดยใช้เทคนิค Topic Modeling
-2. วิเคราะห์ความสัมพันธ์ระหว่างเนื้อหาของเพลงและความนิยมของเพลง เพื่อเป็นแนวทางในการสร้างเพลงที่เป็นความต้องการของผู้ฟังในปัจจุบัน
-## ข้อมูลเพลงที่ใช้ในการวิเคราะห์
-* เพลงยอดนิยม 200 อันดับแรกของประเทศไทย ประกอบด้วย เพลงมากกว่า1 ภาษา
+# Analyzing Popular Song Lyrics with Topic Modeling (BERTopic) and AI-Generated Music
+This project analyzes the lyrics of Thailand’s top 200 popular songs using BERTopic to identify key themes and their relationship with song popularity. Insights from this analysis guide the creation of AI-generated songs using ChatGPT for lyrics, Suno AI for music and vocals.
